@@ -37,7 +37,7 @@ Con origen en las primeras cajas populares de México y con el mayor número de 
 
 ### Sucursales
 
-    Plaza Rosal Local 7, Av. Aztecas #209, Col. Pueblo de los Reyes,
+    Plaza Rosal Local 7, Av. Aztecas #209, Pueblo de los Reyes,
     Alcaldía Coyoacán, Ciudad de México, CP 04330
     (55) 561 90 371
     (55) 561 90 382
@@ -70,7 +70,7 @@ Con origen en las primeras cajas populares de México y con el mayor número de 
     coordinacion.mirador@fesolidaridad.coop
 
     Sucursal Xochimilco
-    Av. Chapultepec #1, Col. Pueblo de San Gregorio Atlapulco,
+    Av. Chapultepec #1, Pueblo de San Gregorio Atlapulco,
     Alcaldía Xochimilco, Ciudad de México, CP 16600
     (55) 5843 9062
     (55) 5843 9219
