@@ -16,7 +16,7 @@ Organismo regional de la Alianza Cooperativa Internacional
 
 Fundada en 1998 y con presencia en 15 estados, busca consolidar y fortalecer el Movimiento Cooperativo Mexicano fungiendo un papel de liderazgo y sirviendo de ejemplo a las demás organizaciones cooperativas nacionales.
 
-    Torres Adalid #517, Col. Del Valle Centro
+    Torres Adalid #517, Col. Del Valle Centro,
     Alcaldía Benito Juarez, Ciudad de México, CP 03100
     52 (55) 5687 1508
     52 (55) 5687 1614
@@ -33,7 +33,7 @@ Además, cuenta con un Comite Juvenil Cooperativo (COJUCOOP)
 
 > Promover y llevar a cabo La Integración, Consolidación, Desarrollo, Representación y Defensa de las Federaciones y las Sociedades Cooperativas de Ahorro y Préstamo.
 
-    Moras #758, Col. Acacias
+    Moras #758, Col. Acacias,
     Alcaldía Benito Juarez, Ciudad de México, CP 03240
 
 ### [Integradora Central](http://www.integradoracentral.coop)
@@ -46,6 +46,8 @@ En su comisión de cooperativas
 
 ### Movimiento al Socialismo
 
+## Organizaciones Gubernamentales Cooperativistas
+
 ### [Dirección General de Empleo, Capacitación y Fomento Cooperativo de la Secretaria de Trabajo y Fomento al Empleo](https://www.trabajo.cdmx.gob.mx/secretaria/estructura/48)
 
 > Planear, organizar, fomentar, difundir, ejecutar, financiar y evaluar programas de apoyo al sector cooperativista.
@@ -53,3 +55,5 @@ En su comisión de cooperativas
     Gerardo Romero Vázquez
     57 09 32 33 ext. 3001
     gromerov@cdmx.gob.mx
+
+### Consejo Consultivo Delegacional de Fomento Cooperativo Azcapotzalco
