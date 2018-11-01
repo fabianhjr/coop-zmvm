@@ -1,0 +1,11 @@
+% Reporte Cooperativo y Solidario de la Zona Metropolitana del Valle de México
+%
+% Octubre 2018
+---
+lang: es
+documentclass: memoir
+header-includes:
+  - \setmainfont{Montserrat}
+  - \setsansfont{Bitter}
+  - \setmonofont{Fira Code Retina}
+---
