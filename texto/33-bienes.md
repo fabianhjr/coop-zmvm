@@ -1,8 +1,8 @@
-# Productos
+## Productos
 
-## Alfarería
+### Alfarería
 
-### Alfareria Artistica
+#### Alfareria Artistica
 
     Calle Puebla 36, Col. El Rosario,
     Alcaldía Tláhuac, Ciudad de México, CP 13540
@@ -12,9 +12,9 @@
 > Somos una cooperativa de artesanos que rescata técnicas y tradiciones de artesanos de otras partes del país. De los mazahuas y otomíes aprendimos la calidad humana, de los de Guerrero aprendimos la técnica de pintar al revés. 
 
 
-## Alimentos
+### Alimentos
 
-### Agroab
+#### Agroab
 
     Calle Guerrero #117, Pueblo San Pablo Oxtotepec,
     Alcaldía Milpa Alta, Ciudad de México CP 12400
@@ -25,17 +25,17 @@
 > La cooperativa inició transformado fruta de la región de Milpa Alta para hacerla jugo, concentrado, pulpa y jarabe. Generó sus marcas y presentaciones, sin embargo ahora también maquila, “nos adaptamos y vendemos en la forma y presentación que el cliente solicita”.
 
 
-### Alimentos Procesados La Floresta
+#### Alimentos Procesados La Floresta
 
     Rubí #12, Col. Estrella
     Alcaldía Gustavo A. Madero, Ciudad de México, CP 07810
     (55) 5517 0735
     productoslafloresta@yahoo.com
-    
+
 > La Floresta es una cooperativa enfocada en producir alimentos gourmet de la más alta calidad siguiendo recetas tradicionales y un toque de alta cocina. Mermeladas, chiles, cajetas, salsas bravas, chocolates, jaleas, etc.
 
 
-### Apiario Atotolco
+#### Apiario Atotolco
 
     Arnulfo Miramontes, Mza. 51, Lt. 339, Col. Santa Cecilia,
     Alcaldía Tláhuac, Ciudad de México, CP 13010
@@ -43,7 +43,7 @@
 > Apiario Atotolco es una sociedad cooperativa constituida por apicultoras y apicultores de la delegación de Tláhuac. Producen la miel y además la transforman en productos como granola, crema, champú y jabones.
 
 
-### La Bachita
+#### La Bachita
 
     Prolongación Canal de Miramontes #144-2, Col. San Bartolo El Chico,
     Alcaldía Tlalpan, Ciudad de México, CP 14320
@@ -53,7 +53,7 @@
 > La Bachita es un rincón oaxaqueño en la Ciudad de México. Esta cooperativa, integrada por cinco socios, recupera la tradición y valores de la fonda, donde la gente socializa. 
 
 
-### Café Tonal
+#### Café Tonal
 
     Calle Oaxaca #56, Col. San Francisco,
     Alcaldía Magdalena Contreras, Ciudad de México, CP 10500
@@ -63,7 +63,7 @@
 > Tonal es una cooperativa dedicada al tostado, comercialización y venta de café orgánico proveniente de Chiapas. Sembrado a 1, 300 metros de altura, es un café tipo robusta que es cultivado bajo sombra y cuenta con una clasificación de exportación. 
 
 
-### Construir en Raíces
+#### Construir en Raíces
 
     Av. 5 de Mayo #60, Pueblo San Antonio Tecómitl,
     Alcaldía Milpa Alta, Ciudad de México, CP 12100
@@ -79,7 +79,7 @@
 > Dividimos nuestro trabajo en tres rubros que se complementan entre sí: apicultura, cultivo de amaranto y huertos frutales.
 
 
-### Dulzura Cristalina
+#### Dulzura Cristalina
 
     Calle Lázaro Cárdenas #54, Pueblo Santa Cruz Alcalpixca,
     Alcaldía Xochimilco, Ciudad de México, CP 16500
@@ -87,7 +87,7 @@
 > Dulzura Cristalina le imprime sabor al beneficio nutricional de sus productos. Comercializan leche de soya sabor natural, fresa y coco, aunque también trabajan la okara (masa de soya).
 
 
-### Endulzarte
+#### Endulzarte
 
     Calle Primera Cerrada Santo Domingo #8, Col. La Conchita,
     Alcaldía Tláhuac, Ciudad de México, CP 13360
@@ -97,7 +97,7 @@
 > Endulzarte ha logrado posicionar la marca Marycandy en diferentes mercados, pero sobre todo ha conjuntado esfuerzos de seis personas para generarse un autoempleo e involucrar a la familia en ello. 
 
 
-### Grupo Amaranto Hernández
+#### Grupo Amaranto Hernández
 
     Calle Agustín Lara #15, Col. Cristo Rey, Pueblo de Tulyehualco,
     Alcaldía Xochimilco, Ciudad de México, CP 16780
@@ -108,7 +108,7 @@
 > Esta cooperativa familiar se dedica al cultivo, cosecha y transformación del amaranto. Originarios del Pueblo de Tulyehualco, ellos han producido por cinco generaciones alimentos derivados del amaranto.
 
 
-### Jitohidmar
+#### Jitohidmar
 
     Calle Arboledas #1, Barrio Noxcalco,
     Alcadía Milpa Alta, Ciudad de México, CP 12100
@@ -119,7 +119,7 @@
 > La cooperativa desarrolla cultivos bajo invernadero en Milpa Alta. Su producto estrella es el jitomate y cosecha anualmente entre 8 y 10 toneladas de nutritivo producto orgánico.
 
 
-### La Necesidad de su Paladar
+#### La Necesidad de su Paladar
 
     Calle Prolongación Malinalli #7, Col. Xochipilli,
     Alcaldía Xochimilco, Ciudad de México, CP 16430
@@ -130,7 +130,7 @@
 > La Necesidad de su Paladar es una cooperativa familiar que produce empanadas tradicionales, naturales y sanas. Su marca comercial es “Empandas Milcas” y nació en 2011 como una actividad que buscaba ayudar a un familiar enfermo con la producción de empanadas para la compra de medicamentos.
 
 
-### Nulti --- Pan Integral y Aresanias
+#### Nulti --- Pan Integral y Aresanias
 
     Calle Josefa Ortiz de Domínguez #27 C, Col. Del Carmen,
     Alcaldía Coyoacán, Ciudad de México, CP 04100
@@ -140,7 +140,7 @@
 > Nulti, Pan Integral, hace las cosas de manera amorosa. Cuando producen sus panes artesanales lo hacen cuidadosamente, les hablan con cariño, pues asumen que "viene directo de las manos del trabajador y desde su corazón".
 
 
-### Mac'kry La Naturaleza del Sabor
+#### Mac'kry La Naturaleza del Sabor
 
     Calle Calvario #5, Col. Santa Cruz Acalpixca,
     Alcaldía Xochimilco, Ciudad de México, CP 16500
@@ -151,7 +151,7 @@
 > Nacida en el año 2011, la cooperativa Mac´kry tiene dentro de su naturaleza el don del sabor que se refleja en el sazón de cada salsa y mermelada. Conformada por mujeres, esta cooperativa revalora la producción artesanal que impregna de originalidad en cada unos de sus productos que tienen como resultado una calidad excepcional.
 
 
-### Salsatitlán
+#### Salsatitlán
 
     Calle Salernitanos #17, Col. Isidro Favela,
     Alcaldía Álvaro Obregón, Ciudad de México, CP 01160
@@ -161,16 +161,18 @@
 
 > Imprimiéndole sabor a las comidas desde 2011, la cooperativa Salsatitlán mantiene una gama de más 100 salsas gourmet. En la tierra de la salsa se encuentran los sabores más rudos, los más exóticos y los más exigentes: sabores de maracuyá, arándano, mora azul, nuez o las más clásicas como las verdes y de árbol.
 
-## Belleza
 
-### Apiario Atotolco
+### Belleza
+
+#### Apiario Atotolco
 
     Arnulfo Miramontes, Mza. 51, Lt. 339, Col. Santa Cecilia,
     Alcaldía Tláhuac, Ciudad de México, CP 13010
 
 > Apiario Atotolco es una sociedad cooperativa constituida por apicultoras y apicultores de la delegación de Tláhuac. Producen la miel y además la transforman en productos como granola, crema, champú y jabones.
 
-### [Cepramiel](https://www.cepramiel.com/)
+
+#### [Cepramiel](https://www.cepramiel.com/)
 
     Tlalmimilolpa #184, Col. San Mateo Tlaltenango,
     Alcaldía Cuajimalpa de Morelos, Ciudad de México, CP 01800
@@ -179,9 +181,10 @@
 
 > Cepramiel es una cooperativa formada principalmente por mujeres que elaboran productos naturales a través del rescate de recetas ancestrales con mezclas de miel, polen, jalea real, cera de abeja, propóleo, extractos herbales y frutales, destinados a las personas que se preocupan por el cuidado de su salud y buscan resaltar su belleza.
 
-## Cervezas
 
-### Cervecería Artesanal Pensil Mexicana
+### Cervezas
+
+#### Cervecería Artesanal Pensil Mexicana
 
     Lago Kolind #79, Col. Pensil Norte,
     Alcaldía Miguel Hidalgo, Ciudad de México, CP 11430
@@ -191,7 +194,9 @@
 
 > Las cervezas artesanales de la cooperativa Pensil Mexicana, son preparadas con materias primas naturales cuidadas con manos indígenas del Estado de Oaxaca.
 
-### Quilombo
+
+#### Quilombo
+
     Col. Pedregal de Santo Domingo,
     Alcaldía Coyoacán, Ciudad de México, CP 04369
     (55) 1731 6850

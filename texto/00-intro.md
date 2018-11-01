@@ -10,6 +10,12 @@ Este reporte tiene el fin de visibilizar el movimiento cooperativista y solidari
 
 ### Fabián Heredia Montiel
 
+## Fuentes de Informacion
+
+### [La Coperacha](https://www.lacoperacha.org.mx/)
+
+### [Cooperativas CDMX](http://www.cooperativas.cdmx.gob.mx/)
+
 ## Licencia
 
 Esta obra está bajo dos licencias:

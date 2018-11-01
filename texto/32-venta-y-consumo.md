@@ -1,8 +1,8 @@
-# Venta y Consumo
+## Venta y Consumo
 
-## Cafeterías
+### Cafeterías
 
-### Café Carly
+#### Café Carly
 
     Calle Cuauhtémoc #39, Pueblo de San Gregorio Atlapulco,
     Alcaldía Xochimilco, Ciudad de México, CP 16600
@@ -12,7 +12,8 @@
 
 > Café Carly y Galerías es una cooperativa conformada por mujeres amantes del café y originarias del Pueblo de San Gregorio en Xochimilco. Esta cooperativa es un espacio que ofrece el servicio de cafetería y además busca ser un foro para expresiones culturales de la zona. 
 
-### Chapata Vive
+
+#### Chapata Vive
 
     Av. Diagonal San Antonio #1410, Col. Narvarte Poniente,
     Alcaldía Benito Juárez, Ciudad de México, CP 03020
