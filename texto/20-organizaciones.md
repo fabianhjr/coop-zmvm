@@ -2,17 +2,21 @@
 
 ## Asociaciones, Federaciones y Confederaciones Cooperativas
 
-### [Alianza Cooperativa Internacional](https://www.ica.coop/es)
+### Internacionales
+
+#### [Alianza Cooperativa Internacional](https://www.ica.coop/es)
 
 > La Alianza Cooperativa Internacional es la portavoz de las cooperativas en todo el mundo. Se fundó en 1895 con el fin de promover el modelo cooperativo.
 
 > A día de hoy, los miembros de las cooperativas representan al menos el 12 % de la humanidad. En cuanto que empresas impulsadas por valores y no por la remuneración del capital, los 3 millones de cooperativas presentes en todo el mundo trabajan juntas para construir un mundo mejor.
 
-### [Cooperativas de las Américas](http://www.aciamericas.coop/)
+#### [Cooperativas de las Américas](http://www.aciamericas.coop/)
 
 Organismo regional de la Alianza Cooperativa Internacional
 
-### [Confederación Nacional Cooperativa de Actividades Diversas de la República Mexicana](http://www.confe-coop.coop/)
+### Nacionales
+
+#### [Confederación Nacional Cooperativa de Actividades Diversas de la República Mexicana](http://www.confe-coop.coop/)
 
 Fundada en 1998 y con presencia en 15 estados, busca consolidar y fortalecer el Movimiento Cooperativo Mexicano fungiendo un papel de liderazgo y sirviendo de ejemplo a las demás organizaciones cooperativas nacionales.
 
@@ -29,24 +33,36 @@ Además, cuenta con un Comite Juvenil Cooperativo (COJUCOOP)
     angelicasoberanesg@cruzazul.com.mx
     jovita.soto@sccuauhtemoc.com.mx
     
-### [Confederación de Cooperativas de Ahorro y Préstamo de México](http://www.concamex.coop/)
+#### [Confederación de Cooperativas de Ahorro y Préstamo de México](http://www.concamex.coop/)
 
 > Promover y llevar a cabo La Integración, Consolidación, Desarrollo, Representación y Defensa de las Federaciones y las Sociedades Cooperativas de Ahorro y Préstamo.
 
     Moras #758, Col. Acacias,
     Alcaldía Benito Juarez, Ciudad de México, CP 03240
 
-### [Integradora Central](http://www.integradoracentral.coop)
+#### [Integradora Central](http://www.integradoracentral.coop)
+
+### Locales
 
 ## Organizaciones Pro-Cooperativismo
 
+### [Fundación Rosa Luxemburgo](http://www.rosalux.org.mx/)
+
+>  El trabajo internacional de nuestra Fundación tiene como fin la formación política a través del análisis de la sociedad, el ideario de la emancipación democrática y social y la capacitación para la acción política en un sentido concreto, por lo que nuestros campos de cooperación comprenden la participación social y democrática, la prevención de conflictos y su resolución en forma pacífica. En estos campos, y en los de migración y derecho a la libre comunicación, que inauguramos para nuestra región, la Fundación trabaja con diferentes organizaciones, partidos de izquierda y del socialismo democrático, sindicatos, organizaciones de mujeres y con los nuevos movimientos sociales y está activa en más de 30 países en cuatro continentes.
+
+    Calzada General Pedro Anaya 65, Colonia San Diego Churubusco,
+    Alcaldía Coyoacán, Ciudad de México, CP 04120
+    (55) 5544 5500
+    (55) 5544 3097
+    info@rosalux.org.mx
+
 ### [Nueva Central de Trabajadores](https://blognuevacentral.blogspot.com/)
 
-En su comisión de cooperativas
+Surge como alternativa anti-corporativista para los sindicatos, cuenta con una comisión de cooperativismo y ha estado involucrada en el surgimiento de ANUEE y SUBACE. 
 
 ### Movimiento al Socialismo
 
-## Organizaciones Gubernamentales Cooperativistas
+## Instancias Gubernamentales Cooperativistas
 
 ### [Dirección General de Empleo, Capacitación y Fomento Cooperativo de la Secretaria de Trabajo y Fomento al Empleo](https://www.trabajo.cdmx.gob.mx/secretaria/estructura/48)
 

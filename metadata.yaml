@@ -6,6 +6,7 @@ lang: es
 documentclass: memoir
 header-includes:
   - \setmainfont{Montserrat}
-  - \setsansfont{Bitter}
+  - \setsansfont{Montserrat Alternates}
   - \setmonofont{Fira Code Retina}
+  - \newfontfamily\headerfont{Bitter}
 ---

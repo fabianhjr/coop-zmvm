@@ -1,9 +1,11 @@
-# Sociedades Cooperativas de Ahorro y Préstamo (SCAPs)
+## Sociedades Cooperativas de Ahorro y Préstamo (SCAPs)
 
-## [Caja Popular Mexicana (CPM)](https://www.cpm.coop/)
+### [Caja Popular Mexicana (CPM)](https://www.cpm.coop/)
 
 
 Con origen en las primeras cajas populares de México y con el mayor número de socios (>2,450,000 socios) y un ahorro significante (> $40,000 MDP)
+
+#### Sucursales
 
     UNION CRISTOBAL HIGUERA
     Boulevard Adolfo Lopez Mateos #108, Col. El Potrero
@@ -31,23 +33,24 @@ Con origen en las primeras cajas populares de México y con el mayor número de 
     (55) 5975-2847
 
 
-## [Caja Inmaculada](http://www.cajainmaculada.com.mx/)
+### [Caja Inmaculada](http://www.cajainmaculada.com.mx/)
 
 > Caja Inmaculada fue fundada el 31 de mayo de 1955 en la ciudad de Querétaro por 25 obreras, trabajadoras de una fábrica denominada “Fabricantes en General” conocida como “La Mica”, para librarse de los intereses de usura que les cobraban los agiotistas ante sus necesidades de obtener préstamos.
 
-### Sucursales
+#### Sucursal
 
     Plaza Rosal Local 7, Av. Aztecas #209, Pueblo de los Reyes,
     Alcaldía Coyoacán, Ciudad de México, CP 04330
-    (55) 561 90 371
-    (55) 561 90 382
-    (55) 561 90 390
+    (55) 5619 0371
+    (55) 5619 0382
+    (55) 5619 0390
 
-## Fesolidaridad
+
+### Fesolidaridad
 
 > Inicia sus actividades de promoción de la cultura del ahorro y del crédito como una oportunidad para elevar la calidad de vida de sus asociados el 8 de septiembre de 1996 en la parroquia provincial de la Lupita en el Valle de Chalco, con tan solo ocho socios. Nace como un programa de ahorro y crédito popular.
 
-### Sucursales
+#### Sucursales
 
     Sucursal La Resurrección
     Av. Aztecas #588 local C, Col. Ajusco

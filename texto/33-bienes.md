@@ -204,9 +204,9 @@
 
 > Somos una Sociedad Cooperativa dedicada a la elaboración de cerveza artesanal en la Ciudad de México
 
-## Horticultura
+### Horticultura
 
-### [Alux de México](https://www.aluxdemexicoga.com.mx/)
+#### [Alux de México](https://www.aluxdemexicoga.com.mx/)
 
 >  Somos una empresa mexicana especializada en la gestión ambiental, con sede en la ciudad de México. Gran parte de nuestros proyectos se enfocan a la integración de la vegetación en los espacios habitados por el ser humano, con la finalidad de mejorar la calidad de vida de nuestros clientes. Nuestra pasión se encuentra en cada uno de los productos y servicios que brindamos. Somos una empresa mexicana especializada en la gestión ambiental, con sede en la ciudad de México. Gran parte de nuestros proyectos se enfocan a la integración de la vegetación en los espacios habitados por el ser humano, con la finalidad de mejorar la calidad de vida de nuestros clientes. Nuestra pasión se encuentra en cada uno de los productos y servicios que brindamos.
 
@@ -215,7 +215,7 @@
     (55) 5264 4730
     aluxmexicoga@hotmail.com
 
-### [Belaplant](http://www.belaplant.com/)
+#### [Belaplant](http://www.belaplant.com/)
 
     Camino a Las Canteras S/N, Col. Santiago Tepalcatlalpan,
     Alcaldía Xochimilco, Ciudad de México, CP 16200
@@ -223,9 +223,9 @@
 
 > Es una cooperativa dedicada la producción de plantas ornamentales y nochebuenas y su comercialización además de ofrecer nuestros servicios de jardinería y arboricultura cuya misión es satisfacer plenamente las necesidades de nuestros consumidores.
 
-## Textiles
+### Textiles
 
-### Artesanas Unidas de Larráinzar
+#### Artesanas Unidas de Larráinzar
 
     Calle Fernando Montes de Oca s/n, entre Calle Zamora y Pachuca, Col. Condesa,
     Alcaldía Cuauhtémoc, Ciudad de México, CP 06140
